@@ -94,6 +94,7 @@ public class AboutActivity extends AbsBaseActivity implements View.OnClickListen
     AppCompatButton maartenCorpelGooglePlus;
     @BindView(R.id.aleksandar_tesic_google_plus)
     AppCompatButton aleksandarTesicGooglePlus;
+    //okelah
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

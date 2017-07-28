@@ -63,7 +63,7 @@ public class MainActivity extends AbsSlidingMusicPanelActivity {
     NavigationView navigationView;
     @BindView(R.id.drawer_layout)
     DrawerLayout drawerLayout;
-
+//Bagus Kurniawan
     @Nullable
     MainActivityFragmentCallbacks currentFragment;
 
